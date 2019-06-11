@@ -1,7 +1,9 @@
+<!-- templateタグに記載した内容がindex.htmlのidと一致する箇所に出力される-->
+<!-- HelloWorldタグは、同名のコンポーネントHelloWorldを読みに行くイメージ-->
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld/>
   </div>
 </template>
 
